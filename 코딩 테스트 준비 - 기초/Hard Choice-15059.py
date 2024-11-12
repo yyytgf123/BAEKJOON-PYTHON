@@ -13,7 +13,4 @@ if b < e:
 if c < f:
     sum3 = f - c
 
-print(sum1)
-print(sum2)
-print(sum3)
 print(sum1+sum2+sum3)
